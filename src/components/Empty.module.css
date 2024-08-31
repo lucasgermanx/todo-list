@@ -1,0 +1,26 @@
+.tasksEmpty {
+    width: 51rem;
+    margin: auto;
+    margin-top: 2rem;
+    text-align: center;
+    border-top: 1px solid #333333;
+    border-radius: 8px;
+    padding-top: 1rem;
+}
+
+.tasksEmpty img {
+    margin-bottom: 1rem;
+    width: 3.5rem;
+    height: 3.5rem;
+}
+
+.tasksEmpty p strong {
+    color: var(--gray-300);
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.tasksEmpty p {
+    color: var(--gray-300);
+    font-size: 1rem;
+}
